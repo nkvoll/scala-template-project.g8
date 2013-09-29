@@ -1,0 +1,9 @@
+Worksheet.sc
+target
+project/project
+project/target
+*.log
+*.log.*
+.idea
+.idea_modules
+build.sbt-e
